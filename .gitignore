@@ -2,3 +2,4 @@ mainPromedioWhile.exe
 mainPromedioWhile.o
 Promedio.exe
 Promedio.layout
+Makefile.win
